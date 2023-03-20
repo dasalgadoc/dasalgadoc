@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dasalgadoc (Diego Salgado)
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning PHP and Magento 2
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning Clean code, architectures and high performance testable microservices.
 
 <!---
 dasalgadoc/dasalgadoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
